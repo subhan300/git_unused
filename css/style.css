@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    width: 100%;
+    border: 2px solid black;
+    justify-content: space-between ;
+
+}
+
+
+ul{
+    display: flex;
+}
+
+li{
+    padding: 10px;
+   list-style: none;
+}
+
+.box2{
+    border: 1pX solid black;
+    background-color: black;
+}
+
+.box1{
+    
+    border: 1px solid blue;
+    font-style: italic;
+    font-size: 20px;
+    background-color: grey;
+    width: 72%;
+   
+}
+
+h1{
+    margin-left: 40px;
+}
+
+a{
+    color: white;
+    font-style: oblique;
+}
